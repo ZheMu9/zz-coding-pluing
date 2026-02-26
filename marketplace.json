@@ -1,0 +1,22 @@
+{
+  "$schema": "https://github.com/ZheMu9/zz-coding-pluing",
+  "name": "zz-coding-pluing",
+  "description": "zz-coding-pluing",
+  "owner": {
+    "name": "zz",
+    "email": "zz@zz.com"
+  },
+  "plugins": [
+    {
+      "name": "zz-coding",
+      "description": "zz-coding",
+      "author": {
+        "name": "zz",
+        "email": "zz@zz.com"
+      },
+      "source": "./plugins/zz-coding",
+      "category": "development",
+      "homepage": "https://github.com/ZheMu9/zz-coding-pluing/tree/main/plugins/zz-coding"
+    }
+  ]
+}
