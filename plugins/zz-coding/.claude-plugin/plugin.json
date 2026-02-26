@@ -1,5 +1,4 @@
 {
-  "manifest_version": 1,
   "name": "zz-coding",
   "description": "游戏活动开发相关插件，包含数据与表现分离等设计模式",
   "version": "1.0.0",
