@@ -3,7 +3,7 @@
   "description": "游戏活动开发相关插件，包含数据与表现分离等设计模式",
   "version": "1.0.0",
   "license": "MIT",
-  "repository": "https://github.com/your-repo/zz-coding-plugins",
+  "repository": "https://github.com/ZheMu9/zz-coding-pluing/tree/main/plugins/zz-coding",
   "author": {
     "name": "zz",
     "email": "zz@example.com"
