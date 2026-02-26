@@ -7,12 +7,5 @@
   "author": {
     "name": "zz",
     "email": "zz@example.com"
-  },
-  "skills": [
-    {
-      "name": "data-presentation-separation",
-      "description": "数据与表现分离设计模式、游戏活动开发、TV动画展示、活动表现数据、活动设计模式、TV面板数据延迟、表现层与数据层分离",
-      "path": "skills/data-presentation-separation/SKILL.md"
-    }
-  ]
+  }
 }
